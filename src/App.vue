@@ -19,5 +19,7 @@
         text-align: center;
         color: #2c3e50;
         margin: 0;
+        height: 100vh;
+        background: white;
     }
 </style>
