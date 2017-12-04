@@ -1,4 +1,4 @@
-# fxx
+# vue-fxx
 
 > A Vue.js project
 
